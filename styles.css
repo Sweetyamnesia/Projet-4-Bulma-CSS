@@ -1,0 +1,43 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.0/css/bulma.min.css";
+
+
+@media only screen and (min-width: 600px) {
+    .img-cover{
+        background-image: url(welcome.png);
+    }
+
+    .columns .box {
+        height: 100%;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    #celine-box {
+        padding-bottom: 50px;
+        min-height: 200px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .img-cover{
+        background-image: url(welcome.png);
+        width: 270pt;
+        height: 600pt;
+    }
+
+    .b3{
+        width: 270pt;
+        height: 200pt;
+        
+    }
+
+    .field{
+        align-items: center;
+    }
+
+    iframe{
+        width: 300px;
+        height: 400px;
+    }
+    
+}
