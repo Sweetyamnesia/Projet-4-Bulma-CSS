@@ -1,5 +1,5 @@
 # Description du projet : 
-Ce projet onsiste à concevoir une interface web en utilisant la librairie CSS **Bulma** pour accélérer le développement d'une mise en page responsive.
+Ce projet consiste à concevoir une interface web en utilisant la librairie CSS **Bulma** pour accélérer le développement d'une mise en page responsive.
 En complément, des **media queries** personnalisées ont été intégrées pour affiner le design et s'assurer d'une expérience utilisateur optimale sur tous les types d'écrans.
 
 # Pile technologique : 
